@@ -7,5 +7,5 @@ A showcase of some of the projects that I have worked on over the years for pers
 **Random Acts of Pizza**
 > Attempt at the 2015 Kaggle Competition that challenged participants to create a model to predict whether or not a Reddit user would receive pizza or not based on his/her post.
 
-**Multi-Genre Classification using RobertA**
+**Multi-Genre Classification using RoBERTa**
 > Design a model that predicts out multiple genres for a single film based on that film’s plot description. (Multi-label classification project)
